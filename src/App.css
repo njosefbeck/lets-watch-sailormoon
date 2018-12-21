@@ -1,32 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,800');
+
 .App {
+  font-family: 'Open Sans', sans-serif;
+  padding: 10px;
+}
+
+.App a {
+  text-decoration: none;
+  font-weight: 900;
+  color: #F346A4;
+}
+
+.App h1 {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 40px;
+  line-height: 1;
+  margin-top: 0;
+}
+
+.logo {
+  max-width: 100%;
+  display: block;
+  margin: 30px auto 40px;
+}
+
+.sailor-sprites {
+  list-style-type: none;
+  padding-left: 0;
+  max-width: 600px;
+  margin: 0 auto 10px;
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
+.sailor-sprites .sailor-sprite {
+  display: inline-block;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.byline {
+  text-align: center;
+  font-size: 12px;
 }

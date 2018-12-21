@@ -1,0 +1,16 @@
+.filler {
+  background-image: linear-gradient(to right, #488fba, #00a5c6, #00babd, #00cba0, #6cd876, #a2d14e, #d2c52f, #ffb42c, #ff9141, #ff6e60, #ff5083, #f443a6);
+  height: 100%;
+  border-top-left-radius: inherit;
+  border-bottom-left-radius: inherit;
+  transition: width 0.2s ease-in;
+  position: relative;
+}
+
+.filler .percentage {
+  position: absolute;
+  top: 6px;
+  right: -22px;
+  font-weight: 900;
+  font-size: 12px;
+}

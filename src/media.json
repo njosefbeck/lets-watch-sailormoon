@@ -1,0 +1,83 @@
+{
+  "media": [
+    {
+      "id": "sm",
+      "type": "season",
+      "name": "Sailor Moon (1992 - 1993)",
+      "numEpisodes": 46,
+      "startEpisode": 1,
+      "color": "#F346A4"
+    },
+    {
+      "id": "smr",
+      "type": "season",
+      "name": "Sailor Moon R (1993 - 1994)",
+      "numEpisodes": 43,
+      "startEpisode": 47,
+      "color": "#488FBA"
+    },
+    {
+      "id": "smr-movie",
+      "type": "movie",
+      "name": "Sailor Moon R (1993)"
+    },
+    {
+      "id": "sms",
+      "type": "season",
+      "name": "Sailor Moon S (1994 - 1995)",
+      "numEpisodes": 38,
+      "startEpisode": 90,
+      "color": "#C7D647"
+    },
+    {
+      "id": "sms-movie",
+      "type": "movie",
+      "name": "Sailor Moon S (1994)"
+    },
+    {
+      "id": "smsupers",
+      "type": "season",
+      "name": "Sailor Moon SuperS (1995 - 1996)",
+      "numEpisodes": 39,
+      "startEpisode": 128,
+      "color": "#E49269"
+    },
+    {
+      "id": "smsupers-movie",
+      "type": "movie",
+      "name": "Sailor Moon SuperS (1995)"
+    },
+    {
+      "id": "smsailorstars",
+      "type": "season",
+      "name": "Sailor Moon Sailor Stars (1996 - 1997)",
+      "numEpisodes": 34,
+      "startEpisode": 167,
+      "color": "#67A09B"
+    },
+    {
+      "id": "smcdk",
+      "type": "season",
+      "name": "Sailor Moon Crystal: Dark Kingdom (2014 - 2015)",
+      "numEpisodes": 14,
+      "startEpisode": 1,
+      "color": "#D6DE3E"
+    },
+    {
+      "id": "smcbm",
+      "type": "season",
+      "name": "Sailor Moon Crystal: Black Moon (2015)",
+      "numEpisodes": 12,
+      "startEpisode": 15,
+      "color": "#EB6D83"
+    },
+    {
+      "id": "smcdb",
+      "type": "season",
+      "name": "Sailor Moon Crystal: Death Busters (2016)",
+      "numEpisodes": 13,
+      "startEpisode": 27,
+      "color": "#F15398"
+    }
+  ]
+}
