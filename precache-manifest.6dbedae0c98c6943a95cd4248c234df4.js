@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/lets-watch-sailormoon/static/js/runtime~main.da730410.js"
   },
   {
-    "revision": "3fb44188e03cb1fd042a",
-    "url": "/lets-watch-sailormoon/static/js/main.3fb44188.chunk.js"
+    "revision": "79c0f7793cd4c45556f0",
+    "url": "/lets-watch-sailormoon/static/js/main.79c0f779.chunk.js"
   },
   {
     "revision": "531039200bdb72d760ad",
     "url": "/lets-watch-sailormoon/static/js/1.53103920.chunk.js"
   },
   {
-    "revision": "3fb44188e03cb1fd042a",
-    "url": "/lets-watch-sailormoon/static/css/main.8c7a976e.chunk.css"
+    "revision": "79c0f7793cd4c45556f0",
+    "url": "/lets-watch-sailormoon/static/css/main.af18fb1b.chunk.css"
   },
   {
-    "revision": "1e82152f12cae83e01aa0699a2ad55db",
+    "revision": "7f86fe42b2000552bc967b5b7296ca54",
     "url": "/lets-watch-sailormoon/index.html"
   }
 ];
