@@ -5,6 +5,7 @@ import sailorMars from './images/sailor_mars.gif';
 import sailorMoon from './images/sailor_moon.gif';
 import sailorMercury from './images/sailor_mercury.gif';
 import sailorJupiter from "./images/sailor_jupiter.gif";
+import sailorVenus from "./images/sailor_venus.gif";
 import MediaItem from './MediaItem';
 import ProgressBar from './ProgressBar';
 import data from './media';
@@ -46,6 +47,7 @@ class App extends Component {
           <li className="sailor-sprite"><img src={sailorMercury} alt="Sailor Mercury" /></li>
           <li className="sailor-sprite"><img src={sailorMars} alt="Sailor Mars" /></li>
           <li className="sailor-sprite"><img src={sailorJupiter} alt="Sailor Jupiter" /></li>
+          <li className="sailor-sprite"><img src={sailorVenus} alt="Sailor Venus" /></li>
         </ul>
         <ProgressBar percentage={this.state.percentageWatched} />
         {this.renderMediaItems()}
