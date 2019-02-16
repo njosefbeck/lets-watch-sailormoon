@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/lets-watch-sailormoon/precache-manifest.be55182b74c83445168502ccf5e2422c.js"
+  "/lets-watch-sailormoon/precache-manifest.08a106139e45f5c0b22a1d153bde3c20.js"
 );
 
 workbox.clientsClaim();
