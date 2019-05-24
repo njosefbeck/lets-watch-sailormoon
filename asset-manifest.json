@@ -1,14 +1,16 @@
 {
-  "main.css": "/lets-watch-sailormoon/static/css/main.d2d17b51.chunk.css",
-  "main.js": "/lets-watch-sailormoon/static/js/main.6954f58d.chunk.js",
-  "main.js.map": "/lets-watch-sailormoon/static/js/main.6954f58d.chunk.js.map",
-  "runtime~main.js": "/lets-watch-sailormoon/static/js/runtime~main.b45cb42b.js",
-  "runtime~main.js.map": "/lets-watch-sailormoon/static/js/runtime~main.b45cb42b.js.map",
-  "static/js/2.7ce5f5dc.chunk.js": "/lets-watch-sailormoon/static/js/2.7ce5f5dc.chunk.js",
-  "static/js/2.7ce5f5dc.chunk.js.map": "/lets-watch-sailormoon/static/js/2.7ce5f5dc.chunk.js.map",
-  "index.html": "/lets-watch-sailormoon/index.html",
-  "precache-manifest.17b2b7d85ca8bcb4bfab4aaab661e883.js": "/lets-watch-sailormoon/precache-manifest.17b2b7d85ca8bcb4bfab4aaab661e883.js",
-  "service-worker.js": "/lets-watch-sailormoon/service-worker.js",
-  "static/css/main.d2d17b51.chunk.css.map": "/lets-watch-sailormoon/static/css/main.d2d17b51.chunk.css.map",
-  "static/media/sailor_moon_logo.png": "/lets-watch-sailormoon/static/media/sailor_moon_logo.1630c2ed.png"
+  "files": {
+    "main.css": "/lets-watch-sailormoon/static/css/main.5d60e834.chunk.css",
+    "main.js": "/lets-watch-sailormoon/static/js/main.6954f58d.chunk.js",
+    "main.js.map": "/lets-watch-sailormoon/static/js/main.6954f58d.chunk.js.map",
+    "runtime~main.js": "/lets-watch-sailormoon/static/js/runtime~main.b45cb42b.js",
+    "runtime~main.js.map": "/lets-watch-sailormoon/static/js/runtime~main.b45cb42b.js.map",
+    "static/js/2.7ce5f5dc.chunk.js": "/lets-watch-sailormoon/static/js/2.7ce5f5dc.chunk.js",
+    "static/js/2.7ce5f5dc.chunk.js.map": "/lets-watch-sailormoon/static/js/2.7ce5f5dc.chunk.js.map",
+    "index.html": "/lets-watch-sailormoon/index.html",
+    "precache-manifest.8e7e9e2e3dc958edd310999e54e88c6e.js": "/lets-watch-sailormoon/precache-manifest.8e7e9e2e3dc958edd310999e54e88c6e.js",
+    "service-worker.js": "/lets-watch-sailormoon/service-worker.js",
+    "static/css/main.5d60e834.chunk.css.map": "/lets-watch-sailormoon/static/css/main.5d60e834.chunk.css.map",
+    "static/media/sailor_moon_logo.png": "/lets-watch-sailormoon/static/media/sailor_moon_logo.1630c2ed.png"
+  }
 }
