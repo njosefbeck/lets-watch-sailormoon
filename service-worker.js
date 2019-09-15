@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lets-watch-sailormoon/precache-manifest.8e7e9e2e3dc958edd310999e54e88c6e.js"
+  "/lets-watch-sailormoon/precache-manifest.dbbd750ece454bb89638fca76d740216.js"
 );
 
 self.addEventListener('message', (event) => {

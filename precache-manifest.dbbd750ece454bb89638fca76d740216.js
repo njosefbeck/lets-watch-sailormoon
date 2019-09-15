@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9782c4e5c568261e50151d5b380f1c65",
+    "revision": "b2811dd573eab82a8978f9bd67a0ff2c",
     "url": "/lets-watch-sailormoon/index.html"
   },
   {
-    "revision": "41fa354b968a2f82967a",
+    "revision": "2abde30a2e8089c8e1a9",
     "url": "/lets-watch-sailormoon/static/css/main.5d60e834.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lets-watch-sailormoon/static/js/2.7ce5f5dc.chunk.js"
   },
   {
-    "revision": "41fa354b968a2f82967a",
-    "url": "/lets-watch-sailormoon/static/js/main.6954f58d.chunk.js"
+    "revision": "2abde30a2e8089c8e1a9",
+    "url": "/lets-watch-sailormoon/static/js/main.98c98356.chunk.js"
   },
   {
     "revision": "7ec8520eb030c1205c5b",
